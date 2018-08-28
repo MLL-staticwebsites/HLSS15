@@ -1,2 +1,1 @@
-# HLSS15
-client site SS15
+# jeckyll_barebones_template
